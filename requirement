@@ -1,0 +1,19 @@
+Lab Overview:
+
+This project includes labs that you can use to gain hands-on experience of building data science solutions. The labs contains few questions that helps you to understand better.
+
+Programming Languages Used in this Course: 
+
+Many of the labs involve writing code in Python. This course does not attempt to teach you exhaustive programming skills and syntax in these languages, so any experience you 
+may already have in either language will be useful. However, the labs and demonstrations will provide you with the code you need to perform the data science operations 
+described in this project, even if you have no prior experience, and there are references to resources that will help you work with these languages.
+
+Preparing an Environment for the Labs by any of following setup:
+
+1. We will use Jupyter notebooks throughout this project. Anaconda is a combine software for spider, IPython notebook etc. 
+   you can install anaconda by following link: https://docs.anaconda.com/anaconda/install/linux/
+
+2. Azure Notebooks is a free service that provides Jupyter notebooks along with supporting packages for R, Python and F# as a service. This means you can just login and get going since no 
+   installation/setup is necessary.
+   You can view notebooks (html render) without logging in. If you want to create/edit/run notebooks, you need to login via any Microsoft ID: you@outlook.com, Xbox.com, etc.
+
