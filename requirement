@@ -16,4 +16,3 @@ Preparing an Environment for the Labs by any of following setup:
 2. Azure Notebooks is a free service that provides Jupyter notebooks along with supporting packages for R, Python and F# as a service. This means you can just login and get going since no 
    installation/setup is necessary.
    You can view notebooks (html render) without logging in. If you want to create/edit/run notebooks, you need to login via any Microsoft ID: you@outlook.com, Xbox.com, etc.
-
