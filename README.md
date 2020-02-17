@@ -167,7 +167,7 @@ Feature selection can involve application of several methods. Two important meth
 **Question2:** What is the best value of beta_1?       
 **Question3:** What is the AUC of the model?       
 
-## Lab9: SVM
+## Lab10: SVM
 
 ### Lab Steps
 
@@ -179,7 +179,7 @@ Feature selection can involve application of several methods. Two important meth
 **Question2:** What is the best value of gamma?      
 **Question3:** What is the AUC of the model?       
 
-## Lab10: Naive Bayes
+## Lab11: Naive Bayes
 
 ### Lab Steps
 
