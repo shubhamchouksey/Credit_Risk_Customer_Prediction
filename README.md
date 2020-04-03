@@ -136,10 +136,9 @@ Feature selection can involve application of several methods. Two important meth
 1. Make sure that you have completed the setup requirements as described in requirement.txt.
 2. Now, run jupyter notebook and open the “Bagging.ipynb” notebook under this project.
 3. Examine the notebook and answer the questions along the way.
-  
-**Question1:** What is the accuracy of the model with reduced feature sets?     
-**Question2:** What is the best value of max_features?     
-**Question3:** What is the AUC of the model?      
+     
+**Question1:** What is the best value of max_features?     
+**Question2:** What is the AUC of the model?      
 
 ## Lab8: Boosting
 
