@@ -179,7 +179,7 @@ Feature selection can involve application of several methods. Two important meth
 ### Lab Steps
 
 1. Make sure that you have completed the setup requirements as described in requirement.txt.
-2. Now, run jupyter notebook and open the “NaiveBayes.ipynb” notebook under Module 6 folder.
+2. Now, run jupyter notebook and open the “NaiveBayes.ipynb” notebook under this project.
 3. Examine the notebook and answer the questions along the way.
 
 **Question1:** What is the AUC of the Gaussian Naive Bayes model?      
