@@ -136,11 +136,10 @@ Feature selection can involve application of several methods. Two important meth
 1. Make sure that you have completed the setup requirements as described in requirement.txt.
 2. Now, run jupyter notebook and open the “Bagging.ipynb” notebook under this project.
 3. Examine the notebook and answer the questions along the way.
-
-**Question1:** What is the accuracy of the model with 40 trees?     
-**Question2:** What is the accuracy of the model with reduced feature sets?     
-**Question3:** What is the best value of max_features?     
-**Question4:** What is the AUC of the model?      
+  
+**Question1:** What is the accuracy of the model with reduced feature sets?     
+**Question2:** What is the best value of max_features?     
+**Question3:** What is the AUC of the model?      
 
 ## Lab8: Boosting
 
@@ -150,10 +149,9 @@ Feature selection can involve application of several methods. Two important meth
 2. Now, run jupyter notebook and open the “Boosting.ipynb” notebook under this project.
 3. Examine the notebook and answer the questions along the way.
 
-**Question1:** What is the accuracy of the model with reduced feature sets?    
-**Question2:** What is the best value of learning_rate?     
-**Question3:** What is the best value of learning_rate?    
-**Question4:** What is the AUC of the model?    
+**Question1:** What is the best value of learning_rate?     
+**Question2:** What is the best value of learning_rate?    
+**Question3:** What is the AUC of the model?    
 
 ## Lab9: Neural Networks
 
@@ -162,10 +160,9 @@ Feature selection can involve application of several methods. Two important meth
 1. Make sure that you have completed the setup requirements as described in requirement.txt.
 2. Now, run jupyter notebook and open the “NeuralNetworks.ipynb” notebook under this project.
 3. Examine the notebook and answer the questions along the way.
-
-**Question1:** What is the accuracy of the model with (100,100) hidden_layer_size?      
-**Question2:** What is the best value of beta_1?       
-**Question3:** What is the AUC of the model?       
+    
+**Question1:** What is the best value of beta_1?       
+**Question2:** What is the AUC of the model?       
 
 ## Lab10: SVM
 
@@ -175,9 +172,8 @@ Feature selection can involve application of several methods. Two important meth
 2. Now, run jupyter notebook and open the “SupportedVectorMachines.ipynb” notebook under this project.
 3. Examine the notebook and answer the questions along the way.
 
-**Question1:** What is the accuracy of the model with nonlinear SVM?      
-**Question2:** What is the best value of gamma?      
-**Question3:** What is the AUC of the model?       
+**Question1:** What is the best value of gamma?      
+**Question2:** What is the AUC of the model?       
 
 ## Lab11: Naive Bayes
 
@@ -187,9 +183,8 @@ Feature selection can involve application of several methods. Two important meth
 2. Now, run jupyter notebook and open the “NaiveBayes.ipynb” notebook under Module 6 folder.
 3. Examine the notebook and answer the questions along the way.
 
-**Question1:** What is the accuracy of the model with Gaussian Naive Bayes?      
-**Question2:** What is the AUC of the Gaussian Naive Bayes model?      
-**Question3:** What is the AUC of the Bernoulli Naive Bayes model?       
+**Question1:** What is the AUC of the Gaussian Naive Bayes model?      
+**Question2:** What is the AUC of the Bernoulli Naive Bayes model?       
 
 
 
